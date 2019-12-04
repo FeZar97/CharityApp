@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>marker.png</file>
+        <file>MapPage.qml</file>
+        <file>MainPage.qml</file>
+        <file>AppTheme.qml</file>
+        <file>appUtils.js</file>
+        <file>Label.qml</file>
+        <file>CButton.qml</file>
+        <file>AboutPage.qml</file>
+        <file>main.qml</file>
+        <file>ListPage.qml</file>
+        <file>Marker.qml</file>
+        <file>Places.qml</file>
+        <file>PlacePage.qml</file>
+        <file>pages/HuntingLodge.html</file>
+        <file>pages/images/HuntingLodge.jpg</file>
+        <file>pages/images/Ostankino.jpg</file>
+        <file>pages/Ostankino.html</file>
+        <file>pages/assets/3rdparty/markdown.css</file>
+        <file>pages/assets/3rdparty/marked.js</file>
+        <file>pages/assets/3rdparty/qt_attribution.json</file>
+        <file>pages/assets/custom.css</file>
+        <file>pages/assets/custom.js</file>
+    </qresource>
+</RCC>
